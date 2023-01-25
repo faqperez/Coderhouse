@@ -1,0 +1,4 @@
+-- Creamos la DB
+DROP DATABASE IF EXIST "Game";
+CREATE DATABASE IF NOT EXIST "Game";
+USE "Game";
